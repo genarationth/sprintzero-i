@@ -23,5 +23,5 @@ filename as template : Group(A-J)_ConceptName.pdf
 ## Task 3: Submit your ***group*** Wireframe  Group design.
 Edit this Readme.md by attach link of your figma design.
 
-Paste you Figma designe here : 
-Group Aphabet [A-J]
+Paste you Figma design here : 
+[Group I Figma Design](https://www.figma.com/file/oosFC9Mk8cIxtMFFL7jzUX/Gymmini?node-id=0%3A1&t=RsvWXvDryGBu5lRp-1)
