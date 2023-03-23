@@ -16,8 +16,7 @@ Website Figma -- https://www.figma.com/
 
 ## Task 2: Submit your ***group*** idea/concept/mood boards.
 Upload your concept board as PDF file to this reposity. <br>
-filename as template : Group(A-J)_ConceptName.pdf
-
+filename as template : [Group I Figjam Design](https://www.figma.com/file/QFeRITeeaEfzJ4b9fUb5yD/Gymmini?node-id=0%3A1&t=DScLwgEN2CtCcMuG-1)
 
 
 ## Task 3: Submit your ***group*** Wireframe  Group design.
